@@ -28,7 +28,7 @@ skills = {
     "Java": 80
 }
 
-# I'm good damm In adobe Illustrator🤩
+# I'm damm good In adobe Illustrator🤩
 
 learning = ["React.js", "Node.js", "MongoDB"]
 
