@@ -15,11 +15,11 @@ skills = {
     "CSS": 75,
     "JavaScript": {
         "skill": 90,
-        "Freamwork": "Vue.js"
+        "Framework": "Vue.js"
     },
     "PHP": {
         "skill": 80,
-        "Freamwork": "Laravel"
+        "Framework": "Laravel"
     },
     "Bootstap": 65,
     "SQL": 70,
