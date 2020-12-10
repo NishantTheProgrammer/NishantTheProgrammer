@@ -15,7 +15,7 @@ skills = {
     "CSS": 75,
     "JavaScript": {
         "skill": 90,
-        "Framework": "Vue.js"
+        "Framework": ["Vue.js", "React.js"]
     },
     "PHP": {
         "skill": 80,
@@ -30,7 +30,7 @@ skills = {
 
 # I'm damn good In Adobe Illustrator🤩
 
-learning = ["React.js", "Node.js", "MongoDB"]
+learning = ["React Native", "Electorn.js", "Django"]
 
 workingOn = ["ChatThingsWeb"]
 ``` 
