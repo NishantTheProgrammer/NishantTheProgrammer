@@ -4,7 +4,7 @@
 me = "Hello World 👋" + 
 
 """
-For now I'm just a curious tech students
+For now I'm just a curious tech student
 who have good technical skills and great thinking ability, 
 adaptation of a new technology isn't a big deal for me.
 
