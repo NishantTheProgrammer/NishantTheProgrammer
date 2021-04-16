@@ -34,7 +34,7 @@ skills = {
 
 # I'm damn good In Adobe Illustrator🤩
 
-learning = []
+learning = ["Ionic"]
 
 workingOn = ["Kichimall - A E-commerce hybrid mobile app"]
 ``` 
