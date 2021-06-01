@@ -13,13 +13,13 @@ skills = {
     "HTML": 80,
     "CSS": {
         "skill": 75,
-        "framework": ["Bootstap", "MaterialUI"] // but I still prefer custom css ❤
+        "framework": ["Bootstap", "MaterialUI"] # but I still prefer custom css ❤
     },
     "JavaScript": {
         "skill": 90,
         "framework": ["Vue.js", "React.js", "React Native", "Angular", "Ionic"]
     },
-    "PHP": {  // I don't like it and not gonna work in PHP
+    "PHP": {  # I don't like it and not gonna work in PHP
         "skill": 80,
         "framework": "Laravel"
     },
