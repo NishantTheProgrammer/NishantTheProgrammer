@@ -1,25 +1,25 @@
 # NishantTheProgrammer
 
 ```python
-me = "Hello World 👋" + 
-
+me = "Hello World 👋" 
++ 
 """
 For now I'm just a curious tech student
 who have good technical skills and great thinking ability,
-I'm working on MVS PVT. LTD. as a "Mobile applicaion developer"
+I'm currently working at MVS PVT. LTD. as a "Mobile applicaion developer"
 """
 
 skills = {
     "HTML": 80,
     "CSS": {
         "skill": 75,
-        "framework": ["Bootstap", "MaterialUI"]
+        "framework": ["Bootstap", "MaterialUI"] // but I still prefer custom css ❤
     },
     "JavaScript": {
         "skill": 90,
         "framework": ["Vue.js", "React.js", "React Native", "Angular", "Ionic"]
     },
-    "PHP": {
+    "PHP": {  // I don't like it and not gonna work in PHP
         "skill": 80,
         "framework": "Laravel"
     },
@@ -36,7 +36,11 @@ skills = {
 
 learning = ["Ionic"]
 
-workingOn = ["Kichimall - A E-commerce hybrid mobile app"]
+workingOn = [
+    "Kichimall - A E-commerce hybrid mobile app", 
+    "Xpertinet (Web) - An online learning web app",
+    "Xpertinet (Mobile) - An online learning mobile app"
+]
 ``` 
 
 
