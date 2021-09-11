@@ -37,9 +37,8 @@ skills = {
 learning = ["Ionic"]
 
 workingOn = [
-    "Kichimall - A E-commerce hybrid mobile app", 
-    "Xpertinet (Web) - An online learning web app",
-    "Xpertinet (Mobile) - An online learning mobile app"
+    "An online learning web app",
+    "An online learning mobile app"
 ]
 ``` 
 
