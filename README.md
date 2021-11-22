@@ -46,5 +46,5 @@ workingOn = [
 ### I have Hackerrank's [Gold badge](https://www.hackerrank.com/NishantThePro) in problem solving
 
 ```
-isAvailableForWork = "Freelancing only"
+isAvailableForWork = "Looking for full time job as full stack dev (django)"
 ```
