@@ -13,7 +13,7 @@ skills = {
     "HTML": 80,
     "CSS": {
         "skill": 75,
-        "framework": ["Bootstap", "MaterialUI"] # but I still prefer custom css ❤
+        "framework": ["Bootstrap", "MaterialUI"] # but I still prefer custom css ❤
     },
     "JavaScript": {
         "skill": 90,
